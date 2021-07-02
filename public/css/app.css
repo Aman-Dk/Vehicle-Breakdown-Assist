@@ -12,7 +12,7 @@ body,html{
 /* background image for landing page */
 .bg{
 /*     background-image: url('https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') ; */
-    background-image: url('https://image.freepik.com/free-vector/roadside-service-abstract-concept-vector-illustration-roadside-assistance-car-service-provider-truck-breakdown-mechanical-repair-vehicle-towing-professional-help-driver-abstract-metaphor_335657-1802.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500') ;
+    background-image: url('https://image.freepik.com/free-vector/roadside-service-abstract-concept-vector-illustration-roadside-assistance-car-service-provider-truck-breakdown-mechanical-repair-vehicle-towing-professional-help-driver-abstract-metaphor_335657-1802.jpg') ;
     /* Full height */
     height: 100%;
     /* 1366px * 225px screen size */
