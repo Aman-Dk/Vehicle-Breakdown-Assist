@@ -11,8 +11,9 @@ body,html{
 
 /* background image for landing page */
 .bg{
-    background-image: url('https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') ;
+/*     background-image: url('https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') ; */
     /* Full height */
+    background-image: url('https://image.freepik.com/free-vector/call-roadside-emergency-assistance-using-smartphone-car-accident-car-insurance-service-concept-cartoon-flat-illustration-isolated_201904-17.jpg');
     height: 100%;
     /* 1366px * 225px screen size */
     /* Center and scale the image nicely */
